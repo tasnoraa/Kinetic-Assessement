@@ -1,0 +1,14 @@
+C:\Users\X461581\source\repos\KineticAssessment\KineticAssessment\bin\Debug\netcoreapp2.1\KineticAssessment.deps.json
+C:\Users\X461581\source\repos\KineticAssessment\KineticAssessment\bin\Debug\netcoreapp2.1\KineticAssessment.runtimeconfig.json
+C:\Users\X461581\source\repos\KineticAssessment\KineticAssessment\bin\Debug\netcoreapp2.1\KineticAssessment.runtimeconfig.dev.json
+C:\Users\X461581\source\repos\KineticAssessment\KineticAssessment\bin\Debug\netcoreapp2.1\KineticAssessment.dll
+C:\Users\X461581\source\repos\KineticAssessment\KineticAssessment\obj\Debug\netcoreapp2.1\KineticAssessment.csprojAssemblyReference.cache
+C:\Users\X461581\source\repos\KineticAssessment\KineticAssessment\obj\Debug\netcoreapp2.1\KineticAssessment.csproj.CoreCompileInputs.cache
+C:\Users\X461581\source\repos\KineticAssessment\KineticAssessment\obj\Debug\netcoreapp2.1\KineticAssessment.RazorAssemblyInfo.cache
+C:\Users\X461581\source\repos\KineticAssessment\KineticAssessment\obj\Debug\netcoreapp2.1\KineticAssessment.RazorAssemblyInfo.cs
+C:\Users\X461581\source\repos\KineticAssessment\KineticAssessment\obj\Debug\netcoreapp2.1\KineticAssessment.AssemblyInfoInputs.cache
+C:\Users\X461581\source\repos\KineticAssessment\KineticAssessment\obj\Debug\netcoreapp2.1\KineticAssessment.AssemblyInfo.cs
+C:\Users\X461581\source\repos\KineticAssessment\KineticAssessment\obj\Debug\netcoreapp2.1\KineticAssessment.RazorTargetAssemblyInfo.cache
+C:\Users\X461581\source\repos\KineticAssessment\KineticAssessment\bin\Debug\netcoreapp2.1\KineticAssessment.pdb
+C:\Users\X461581\source\repos\KineticAssessment\KineticAssessment\obj\Debug\netcoreapp2.1\KineticAssessment.dll
+C:\Users\X461581\source\repos\KineticAssessment\KineticAssessment\obj\Debug\netcoreapp2.1\KineticAssessment.pdb
